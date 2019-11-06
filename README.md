@@ -80,3 +80,5 @@ Integrated text variable into the if loops in the onDrawF function so that the l
 Developed a Save Drawing button so that the canvas can be saved as a .png file. An important note on this is that this image is a screenshot of the coordinates of the canvas. If this app is being used on a machine other than a MacBook Pro (13.3 inch, 2560 x 1600), then the coordinates will need to be adjusted on your machine. The coordinates that need to be edited or on line 133 of GUI.py. 
 
 In order to improve the experience of the user, the Label widget entitled ‘Additional Info’ has default text when the canvas is not displaying a fractal. This default text contains some general instructions and tips on using the app
+
+<img width="500" alt="Screenshot 2019-11-05 at 16 54 39" src="https://user-images.githubusercontent.com/8673218/68345479-50ba7b80-00e9-11ea-96bc-414f2fdccee6.png">
