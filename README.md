@@ -81,4 +81,8 @@ Developed a Save Drawing button so that the canvas can be saved as a .png file. 
 
 In order to improve the experience of the user, the Label widget entitled ‘Additional Info’ has default text when the canvas is not displaying a fractal. This default text contains some general instructions and tips on using the app
 
-<img width="500" alt="Screenshot 2019-11-05 at 16 54 39" src="https://user-images.githubusercontent.com/8673218/68345479-50ba7b80-00e9-11ea-96bc-414f2fdccee6.png">
+# SCREENSHOTS
+
+<img width="600" alt="Screenshot 2019-11-05 at 16 54 39" src="https://user-images.githubusercontent.com/8673218/68345479-50ba7b80-00e9-11ea-96bc-414f2fdccee6.png">
+
+<img width="600" alt="Screenshot 2019-11-05 at 16 55 14" src="https://user-images.githubusercontent.com/8673218/68345571-8d867280-00e9-11ea-91fd-0707d2ebcb93.png">
